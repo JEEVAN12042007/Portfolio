@@ -1,0 +1,12 @@
+com\portfolio\app\service\ProjectService.class
+com\portfolio\app\model\User.class
+com\portfolio\app\controller\UserController.class
+com\portfolio\app\model\Project.class
+com\portfolio\app\PortfolioApplication.class
+com\portfolio\app\controller\ProjectController.class
+com\portfolio\app\SecurityConfig.class
+com\portfolio\app\service\AuthService.class
+com\portfolio\app\repository\ProjectRepository.class
+com\portfolio\app\controller\RootController.class
+com\portfolio\app\DataInitializer.class
+com\portfolio\app\repository\UserRepository.class
